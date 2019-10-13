@@ -1,4 +1,4 @@
-# gridds
+# GRIDDS
 Gait Recognition Image and Depth Dataset
 
 GRIDDS is freely available at http://gridds.ipvc.pt
