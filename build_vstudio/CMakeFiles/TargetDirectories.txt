@@ -1,0 +1,3 @@
+C:/Users/JOAO.NUNES/Dropbox/coding/cpp/BodyViewer/build_vstudio/CMakeFiles/bodyViewer.dir
+C:/Users/JOAO.NUNES/Dropbox/coding/cpp/BodyViewer/build_vstudio/CMakeFiles/ALL_BUILD.dir
+C:/Users/JOAO.NUNES/Dropbox/coding/cpp/BodyViewer/build_vstudio/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,3 @@
+/Users/joaonunes/Dropbox/coding/cpp/BodyViewer/build_linux/CMakeFiles/rebuild_cache.dir
+/Users/joaonunes/Dropbox/coding/cpp/BodyViewer/build_linux/CMakeFiles/edit_cache.dir
+/Users/joaonunes/Dropbox/coding/cpp/BodyViewer/build_linux/CMakeFiles/bodyViewer.dir

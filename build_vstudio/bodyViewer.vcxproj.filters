@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\JOAO.NUNES\Dropbox\coding\cpp\BodyViewer\src\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\JOAO.NUNES\Dropbox\coding\cpp\BodyViewer\src\JointData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\JOAO.NUNES\Dropbox\coding\cpp\BodyViewer\src\FrameData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\JOAO.NUNES\Dropbox\coding\cpp\BodyViewer\include\Settings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JOAO.NUNES\Dropbox\coding\cpp\BodyViewer\include\JointData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JOAO.NUNES\Dropbox\coding\cpp\BodyViewer\include\FrameData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JOAO.NUNES\Dropbox\coding\cpp\BodyViewer\include\CSVIterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\JOAO.NUNES\Dropbox\coding\cpp\BodyViewer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1F066E97-2F71-3057-9C9F-579A2A2D22F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ED897438-09ED-3516-9107-D50D365B4170}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
